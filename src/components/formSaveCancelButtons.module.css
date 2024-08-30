@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  margin: 30px 0 20px;
+  justify-content: start;
+  align-items: start;
+}
+button {
+  font-size: 20px;
+  font-weight: 600;
+  margin-left: 10px;
+  padding: 7px 17px;
+  text-wrap: nowrap;
+  background-color: rgb(31, 31, 31);
+  border: none;
+  color: rgb(201, 199, 199);
+  border-radius: 10px;
+  border: 1px solid wheat;
+  cursor: pointer;
+}

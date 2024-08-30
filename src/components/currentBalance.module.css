@@ -1,0 +1,18 @@
+.balance {
+  font-size: 45px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.amount_positive {
+  color: rgb(171, 247, 57);
+  font-family: sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+}
+.amount_negative {
+  color: red;
+  font-family: sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+}

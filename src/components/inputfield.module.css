@@ -1,0 +1,21 @@
+.input_field {
+  display: flex;
+  flex-direction: column;
+}
+input {
+  margin: 5px;
+  background-color: rgb(31, 31, 31);
+  border: none;
+  color: white;
+  padding: 10px;
+  padding-left: 30px;
+  border-radius: 10px;
+  width: 500px;
+  outline: none;
+  font-size: 20px;
+}
+
+input::placeholder {
+  color: rgb(147, 147, 147);
+  font-size: 17px;
+}

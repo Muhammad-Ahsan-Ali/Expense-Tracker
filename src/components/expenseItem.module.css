@@ -1,0 +1,26 @@
+.item_container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 70px auto;
+  border: 1px solid wheat;
+  padding: 40px;
+  max-width: 80%;
+  border-radius: 20px;
+}
+.amount_positive {
+  color: rgb(171, 247, 57);
+}
+.amount_negative {
+  color: red;
+}
+.description {
+  text-align: left;
+  font-size: 44px;
+  font-weight: 526;
+  font-family: sans-serif;
+}
+.button {
+  padding: 16px;
+  color: brown;
+}

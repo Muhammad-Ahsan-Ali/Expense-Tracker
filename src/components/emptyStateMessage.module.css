@@ -1,0 +1,10 @@
+.exmpty_list_msg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 155px;
+  font-family: sans-serif;
+  font-size: 80px;
+  font-weight: 200;
+  color: gray;
+}
